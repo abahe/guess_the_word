@@ -1,2 +1,2 @@
-# Guess the Work Game
+# Guess the Word Game
 Android game guessing the word for child
